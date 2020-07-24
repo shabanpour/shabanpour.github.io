@@ -29,7 +29,7 @@ input[type=checkbox] {
 	max-width: 100%;
 }
 
-.result-container {
+.result-pgcontainer {
 	background-color: rgba(0, 0, 0, 0.4);
 	display: flex;
 	justify-content: flex-start;
@@ -42,12 +42,12 @@ input[type=checkbox] {
 	width: 100%;
 }
 
-.result-container #result {
+.result-pgcontainer #result {
   	word-wrap: break-word;
 	max-width: calc(100% - 40px);
 }
 
-.result-container .btn {
+.result-pgcontainer .btn {
 	font-size: 20px;
 	position: absolute;
 	top: 5px;
