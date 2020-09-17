@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on Mehran Shabanpour</title>
+    <link>http://shabanpour.github.io/categories/news/</link>
+    <description>Recent content in news on Mehran Shabanpour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2020 11:29:24 +0430</lastBuildDate><atom:link href="http://shabanpour.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>http://shabanpour.github.io/blog/hello-world/</link>
+      <pubDate>Thu, 17 Sep 2020 11:29:24 +0430</pubDate>
+      
+      <guid>http://shabanpour.github.io/blog/hello-world/</guid>
+      <description>Hello world! This is my First post here!</description>
+    </item>
+    
+  </channel>
+</rss>
