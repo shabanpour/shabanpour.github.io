@@ -776,60 +776,7 @@ there.
 @media (min-width: 100rem) {}
 
 /* Larger than Desktop HD */
-@media (min-width: 120rem) {}
-
-
-
-
-/* byMehran */
-
-.avatar {
-	height: 84px;
-	width: 84px;
-	position: relative;
-    order: 0;
-    flex: 0 1 auto;
-    align-self: auto;
-}
-
-.grad {
-	height: inherit;
-	width: inherit;
-	background: linear-gradient(180deg, #ffffff 80%, #e81224);
-	position: absolute;
-}
-
-.avatar-img {
-	height: 80px;
-	width: 80px;
-	background: blue;
-	border: 2px solid black;
-	position: absolute;
-	margin: 2px 0 0 2px;
-	z-index: 99;
-	overflow: hidden;
-}
-
-.border-radius {
-	border-radius: 9000px;
-}
-
-.spin {
-  animation-duration: 1s;
-  animation-name: spin;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-}
-
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-
-.float-left-child {
-  float: left
-}/* Background */ .chroma { color: #ffffff; }
+@media (min-width: 120rem) {}/* Background */ .chroma { color: #ffffff; }
 /* LineTableTD */ .chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
 /* LineTable */ .chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; width: auto; overflow: auto; display: block; }
 /* LineHighlight */ .chroma .hl { display: block; width: 100%;background-color: #ffffcc }
